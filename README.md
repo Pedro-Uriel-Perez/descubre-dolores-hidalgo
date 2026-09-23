@@ -27,8 +27,6 @@ lib/
 
 **Lista de lugares turísticos**
 
-![Lista de lugares](docs/screenshots/lista_lugares.png)
-
 **Detalle del lugar: imagen y audio-guía**
 
 ![Detalle con audio](docs/screenshots/detalle_audio.png)
